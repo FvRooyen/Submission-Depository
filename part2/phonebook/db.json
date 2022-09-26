@@ -1,0 +1,54 @@
+{
+  "persons": [
+    {
+      "name": "Ada Lovelace",
+      "number": "39-44-5323523",
+      "id": 2
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": 3
+    },
+    {
+      "name": "Mary Poppendieck",
+      "number": "39-23-6423122",
+      "id": 4
+    },
+    {
+      "name": "Krien Naidoo",
+      "number": "123456",
+      "id": 5
+    },
+    {
+      "name": "Frances van Rooyen",
+      "number": "0738431565",
+      "id": 6
+    },
+    {
+      "name": "Marietta van Rooyen",
+      "number": "0738586176",
+      "id": 7
+    },
+    {
+      "name": "Evan Weyermuller",
+      "number": "965844235",
+      "id": 8
+    },
+    {
+      "name": "Jonathan Solomon",
+      "number": "08256311523",
+      "id": 9
+    },
+    {
+      "name": "Jacques Coetzee",
+      "number": "123456789",
+      "id": 10
+    },
+    {
+      "name": "Tshepo Magubane",
+      "number": "9874563",
+      "id": 11
+    }
+  ]
+}

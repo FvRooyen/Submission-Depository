@@ -1,0 +1,86 @@
+{
+  "notes": [
+    {
+      "content": "custom-hooks are great",
+      "id": 1
+    },
+    {
+      "content": "the best featrure ever <3",
+      "id": 2
+    },
+    {
+      "content": "Lets try again!",
+      "id": 3
+    },
+    {
+      "content": "map is having trouble with ids",
+      "id": 4
+    },
+    {
+      "content": "map is having trouble with ids",
+      "id": 5
+    },
+    {
+      "content": "useEffect is glithcing",
+      "id": 6
+    },
+    {
+      "content": "This seems to be working now!",
+      "id": 7
+    },
+    {
+      "content": "I am getting better! Part 7 complete",
+      "id": 8
+    },
+    {
+      "content": "Map is once again giving me shit",
+      "id": 9
+    },
+    {
+      "content": "Lets try one last time",
+      "id": 10
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "kaltsoon",
+      "number": "045-2323456",
+      "id": 2
+    },
+    {
+      "name": "Piet Pompies",
+      "number": "082-5483923",
+      "id": 3
+    },
+    {
+      "name": "jan",
+      "number": "010-156789561",
+      "id": 4
+    },
+    {
+      "name": "Gina",
+      "number": "010-1567895",
+      "id": 5
+    },
+    {
+      "name": "Jimmy",
+      "number": "010-1567895",
+      "id": 6
+    },
+    {
+      "name": "Mia",
+      "number": "0738431565",
+      "id": 7
+    },
+    {
+      "name": "Pia",
+      "number": "0738431565",
+      "id": 8
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+PUT http://localhost:3001/api/users/active/1?active=false
+Content-Type: application/json
+
+{
+   
+}

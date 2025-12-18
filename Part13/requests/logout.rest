@@ -1,0 +1,7 @@
+DELETE http://localhost:3001/api/login
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZyYW5jZXN2OEBnbWFpbC5jb20iLCJpZCI6MSwiaWF0IjoxNzY2MDYzNTk5fQ.fRZy_6InMrFoHXcgkkzWOCO3IuwrHGjXkm5uPRGDB1o
+Content-Type: application/json
+
+
+{
+}

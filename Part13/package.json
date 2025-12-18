@@ -1,0 +1,39 @@
+{
+  "name": "part13",
+  "version": "1.0.0",
+  "description": "backend for part 11 of the full stack open course",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "nodemon index.js",
+    "migration:down": "node util/rollback.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FvRooyen/Submission-Depository.git"
+  },
+  "keywords": [
+    "relational",
+    "database"
+  ],
+  "author": "F. van Rooyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FvRooyen/Submission-Depository/issues"
+  },
+  "homepage": "https://github.com/FvRooyen/Submission-Depository#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "dependencies": {
+    "@rushstack/node-core-library": "^3.45.0",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.1",
+    "express-async-errors": "^3.1.1",
+    "jsonwebtoken": "^8.5.1",
+    "pg": "^8.16.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.7",
+    "umzug": "^3.5.0"
+  }
+}
